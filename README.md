@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Database Management System**
 
-- 💬 Ask me about **Raect, JavaScript**
+- 💬 Ask me about **Raect, JavaScript, Web Development**
 
 <hr />
 
