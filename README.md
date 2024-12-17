@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Singh</h1>
 <h3 align="center">Passionate Web Developer | Enhancing MERN Stack and Exploring Next.js, TypeScript, and Databases</h3>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack Project - Workhive**
 
 - 🌱 I’m currently learning **Java, Database Management System**
 
