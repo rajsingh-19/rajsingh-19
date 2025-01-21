@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Project - Quiz Hub**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Java**
 
 - 💬 Ask me about **React, JavaScript, Web Development**
 
